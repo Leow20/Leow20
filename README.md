@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Leonardo Winter dos Santos  
-- 📚 Currently studying Computer Science at UNIJUI
-- 💼 Interning at Compass UOL
+- 👋 Hi, I’m Leonardo Winter dos Santos
+- 📚 Computer Science 
 - 🌎 Panambi, Brazil
 
 
